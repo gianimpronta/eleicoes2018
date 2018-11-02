@@ -1,4 +1,4 @@
-# Datasets
+# Conjunto de dados
 Votos do primeiro turno do estado do Rio de Janeiro:
 http://agencia.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2018_RJ.zip
 
